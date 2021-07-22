@@ -3,9 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-![logo-ohmyfood](./public/images/logo/ohmyfood.png)
-
-**Commit #2**
+**Commit #3**
 
 # Description
 
@@ -19,9 +17,8 @@
 
 # Change done
 
-* Add website directories and files
-* Add descriptions in README.md
+* Correct descriptions in README.md
 
 # WEBSITE LINK
 
-[ohmyfood](https://martinbinard.github.io/MartinBinard_4_22072021/)
+[La chouette agence](https://martinbinard.github.io/MartinBinard_4_22072021/)
