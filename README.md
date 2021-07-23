@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Commit #3**
+**Commit #4**
 
 # Description
 
@@ -17,7 +17,7 @@
 
 # Change done
 
-* Correct descriptions in README.md
+* Add gtag.js to index & page2
 
 # WEBSITE LINK
 
