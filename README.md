@@ -1,9 +1,9 @@
 # MartinBinard_4_22072021
-**Projet 4**
+**Projet 5**
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Commit #4**
+**Commit #5**
 
 # Description
 
@@ -17,7 +17,8 @@
 
 # Change done
 
-* Add gtag.js to index & page2
+* Add language & meta
+* move gtag.js after head
 
 # WEBSITE LINK
 
