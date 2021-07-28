@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Commit #5**
+**Main bracnh - Commit #6**
 
 # Description
 
@@ -17,8 +17,9 @@
 
 # Change done
 
-* Add language & meta
-* move gtag.js after head
+* Add semantic beacon
+* Comment move to top arrow on page2.html
+* Remove white write div
 
 # WEBSITE LINK
 
