@@ -1,9 +1,9 @@
 # MartinBinard_4_22072021
-**Projet 5**
+**Projet 4**
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #6**
+**Main bracnh - Commit #7**
 
 # Description
 
@@ -17,9 +17,8 @@
 
 # Change done
 
-* Add semantic beacon
-* Comment move to top arrow on page2.html
-* Remove white write div
+* Add text indstead of image
+* Add precise description to logo img
 
 # WEBSITE LINK
 
