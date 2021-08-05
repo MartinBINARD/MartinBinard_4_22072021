@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #10**
+**Main bracnh - Commit #12**
 
 # Description
 
@@ -17,7 +17,7 @@
 
 # Change done
 
-* add async to JS
+* add fontawesome kit & remove local fonts directory
 
 # WEBSITE LINK
 
