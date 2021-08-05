@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #8**
+**Main bracnh - Commit #9**
 
 # Description
 
@@ -17,8 +17,10 @@
 
 # Change done
 
-* Add right CSS & JS links to solve issues of hamberger menu in page2.html
-* Remove 404 error links
+* Add CSS compress code in style.css
+* Replace JPG images instead of BMP images
+* Fit images miniature to content
+* Remove page2.html repetitions
 
 # WEBSITE LINK
 
