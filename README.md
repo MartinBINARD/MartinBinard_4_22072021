@@ -17,7 +17,7 @@
 
 # Change done
 
-* Remove CSS compressed
+* add async to JS
 
 # WEBSITE LINK
 
