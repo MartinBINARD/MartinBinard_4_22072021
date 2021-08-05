@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #9**
+**Main bracnh - Commit #10**
 
 # Description
 
@@ -17,10 +17,7 @@
 
 # Change done
 
-* Add CSS compress code in style.css
-* Replace JPG images instead of BMP images
-* Fit images miniature to content
-* Remove page2.html repetitions
+* Remove CSS compressed
 
 # WEBSITE LINK
 
