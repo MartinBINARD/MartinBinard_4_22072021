@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #13**
+**Main bracnh - Commit #14**
 
 # Description
 
@@ -17,7 +17,9 @@
 
 # Change done
 
-* add fonts directory
+* Add minified JS & CSS
+* Create min-js directory
+* Add style.css to CSS/
 
 # WEBSITE LINK
 
