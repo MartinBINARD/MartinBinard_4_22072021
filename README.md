@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #15**
+**Main bracnh - Commit #16**
 
 # Description
 
@@ -17,11 +17,7 @@
 
 # Change done
 
-* Add contact name links in hamberger menu contact.html
-* Add white write to index.html & contact.html
-* Remove keywords stuffing hide in footer
-* Add p font-size to 12px
-* Add .gitignore
+* Add minified fontawesome
 
 # WEBSITE LINK
 
