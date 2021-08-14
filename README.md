@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #19**
+**Main bracnh - Commit #20**
 
 # Description
 
@@ -17,7 +17,7 @@
 
 # Change done
 
-* Remove env() in style.css & style.min.css
+* Remove "max-device-width" class property in bootstrap.css & bootstrap.min.css
 
 # WEBSITE LINK
 
