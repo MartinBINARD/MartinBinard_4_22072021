@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #16**
+**Main bracnh - Commit #17**
 
 # Description
 
@@ -17,7 +17,10 @@
 
 # Change done
 
-* Add minified fontawesome
+* Remove W3C errors due to : constant, min-device-width, max-device-width in style.css
+* Remove W3C errors due to : speak value none in et-line.css
+* Minify the changed code
+* Lighten write content who have a very low contrast
 
 # WEBSITE LINK
 
