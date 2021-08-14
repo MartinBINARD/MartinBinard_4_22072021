@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #18**
+**Main bracnh - Commit #19**
 
 # Description
 
@@ -17,7 +17,7 @@
 
 # Change done
 
-* Add "tight-width-whitespace black-background" classes content to contact.html 
+* Remove env() in style.css & style.min.css
 
 # WEBSITE LINK
 
