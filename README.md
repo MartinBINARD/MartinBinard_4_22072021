@@ -3,7 +3,7 @@
 
 ***A start-up called La chouette agence with serious SEO issues***
 
-**Main bracnh - Commit #21**
+**Main bracnh - Commit #22**
 
 # Description
 
@@ -17,8 +17,7 @@
 
 # Change done
 
-* Add placholder in input & textarea feild
-* Remove white class to footer contact.html
+* Remove opacity to recommended content in index.html
 
 # WEBSITE LINK
 
